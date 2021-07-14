@@ -1,0 +1,40 @@
+body
+{
+ background-color:#333;
+ color:#f4f4f4;
+ margin:0;
+}
+
+header
+{
+  background:white;
+  color:#333;
+  width:700px;
+  height:100px;
+  text-align:center;
+  margin:10px auto;
+  padding:20px;
+
+  border:solid red 3px;
+}
+main
+{
+ background:lightblue;
+ color:#333;
+ width:1200px;
+ margin:10px auto;
+ padding-left:10px;
+
+ border:solid red 3px;
+}
+footer
+{
+ background:white;
+ color:#333;
+ width:auto;
+ text-align:center;
+ margin:10px auto;
+ 
+ border:solid red 3px;
+}
+
